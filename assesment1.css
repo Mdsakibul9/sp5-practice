@@ -1,0 +1,30 @@
+body{
+  background:#42adf5;
+
+}
+
+.s2{
+  color:#4b17b3;
+}
+.s1{
+  border: 1px solid black;
+}
+
+input{
+  border: 2px solid;
+  border-color:rgb(110, 12, 12);
+}
+
+
+/*border: 2px solid rgb(110.12.12)
+h2{
+ color:purple;
+}
+
+#textblock{border:5px solid gray;
+ width: 800px;
+ height:400px;
+
+
+
+}
