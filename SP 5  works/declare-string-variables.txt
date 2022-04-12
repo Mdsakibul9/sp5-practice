@@ -1,0 +1,2 @@
+var myFirstName="sakib"
+var myLastName="islam"
